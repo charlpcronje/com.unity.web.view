@@ -1,4 +1,6 @@
 apply plugin: 'com.android.library'
+apply plugin: 'kotlin-android-extensions'
+apply plugin: 'kotlin-android'
 
 android {
     compileSdkVersion 23
@@ -31,5 +33,10 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'androidx.test:runner:1.2.0'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
-    implementation files('C:\\Program Files\\Unity\\Hub\\Editor\\5.6\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\Variations\\mono\\Development\\Classes\\classes.jar')
+    compile "androidx.core:core-ktx:+"
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+    implementation files('C:\\work\\java\\View\\view\\libs\\classes.jar')
+}
+repositories {
+    mavenCentral()
 }

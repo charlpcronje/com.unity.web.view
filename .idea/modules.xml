@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/View.iml" filepath="$PROJECT_DIR$/View.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/View.iml" filepath="$PROJECT_DIR$/.idea/modules/View.iml" />
+      <module fileurl="file://$PROJECT_DIR$/view/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/aapt.iml" filepath="$PROJECT_DIR$/view/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/aapt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/build/generated/source/buildConfig/androidTest/androidTest.iml" filepath="$PROJECT_DIR$/app/build/generated/source/buildConfig/androidTest/androidTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/build/generated/source/buildConfig/buildConfig.iml" filepath="$PROJECT_DIR$/app/build/generated/source/buildConfig/buildConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/build/intermediates/bundle_manifest/debug/processDebugManifest/bundle-manifest/bundle-manifest.iml" filepath="$PROJECT_DIR$/app/build/intermediates/bundle_manifest/debug/processDebugManifest/bundle-manifest/bundle-manifest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/view/build/intermediates/library_manifest/debug/debug.iml" filepath="$PROJECT_DIR$/view/build/intermediates/library_manifest/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/view/build/intermediates/merged_manifests/debugAndroidTest/debugAndroidTest.iml" filepath="$PROJECT_DIR$/view/build/intermediates/merged_manifests/debugAndroidTest/debugAndroidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/src/main/main.iml" filepath="$PROJECT_DIR$/app/src/main/main.iml" />
       <module fileurl="file://$PROJECT_DIR$/view/view.iml" filepath="$PROJECT_DIR$/view/view.iml" />
     </modules>
   </component>
